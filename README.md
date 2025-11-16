@@ -44,5 +44,8 @@ bun run dev
 
 ## Login
 
+```bash
 Email : test@mail.com
 Password : Test
+```
+
